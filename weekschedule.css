@@ -1,0 +1,128 @@
+body{
+  background-color:black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.table{
+  width:50%;
+  color:#ffffff;
+  margin-left:330px;
+  margin-top:80px;
+}
+
+.sh{
+  margin-left:450px;
+  font-family: verdana;
+  color: MediumSeaGreen;
+  margin-top: 50px;
+}
+
+.nav li {
+    display: inline-block;
+}
+
+.nav li a {
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+}
+
+header {
+    
+    padding: 30px 40px;
+    height: 50px;
+    background-color: #000000bf;
+}
+
+
+.logo {
+    float: left;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.logo img {
+  margin-bottom:20px;
+  height: 65px; 
+}
+
+.nav {
+    float: right;
+}
+
+.nav li {
+  line-height: 32px;
+}
+
+.subnav {
+  position: absolute;
+  padding-left: 0;
+}
+
+.subnav li {
+  display: block;
+  padding: 12px 14px;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.nav li ul {
+  display: none;
+}
+
+.nav li:hover ul {
+  display: block;
+}
+
+.subnav2 {
+  position: absolute;
+  padding-left: 0;
+}
+
+.subnav2 li {
+  display: block;
+  padding: 12px 14px;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.subnav3 {
+  position: absolute;
+  padding-left: 0;
+}
+
+.subnav3 li {
+  display: block;
+  padding: 12px 14px;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.home{
+  padding:15px;
+}
+
+.home .a{
+   
+}
+
+.home h1{
+  color:#D8E3E1;
+  font-size:60px;
+  font-weight:700;
+  margin-left:60px;
+  margin-top:70px;
+}
+
+.home h1 span{
+  color:#119D84;
+}
+
+.home h2{
+  color:#D8E3E1;
+  font-size:60px;
+  font-weight:700;
+  margin-left:60px;
+  margin-top:70px;
+}
+
+.home h2 span{
+  color:#119D84;
+}
